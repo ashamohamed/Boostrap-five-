@@ -1,0 +1,21 @@
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+.picha{
+    margin-bottom: 10px;
+}
+.picha-bandari{
+    width: 65%;
+    height: 55%;
+    border-style:  3px solid  black;
+}
+.picha-bandari2{
+    width: 75%;
+    height: 65%;
+    border-style: solid;
+}
+.card bg-light1{
+    margin-top: 10%;
+}
